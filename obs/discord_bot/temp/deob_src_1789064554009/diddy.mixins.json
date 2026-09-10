@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.krypton.diddy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientBootstrapMixin",
+    "GameRendererStateMixin",
+    "HqKeybindChangeMixin",
+    "KeyboardOpenMixin",
+    "NkiRenderMixin",
+    "SettingSaveMixin",
+    "UsfKeybindSaveMixin",
+    "UsfLifecycleMixin",
+    "VpInputMixin",
+    "VpRenderMixin",
+    "VapArrayListMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

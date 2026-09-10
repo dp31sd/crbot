@@ -1,0 +1,193 @@
+Summary for C:\Users\Administrator\Desktop\P\obs\discord_bot\output\deobfuscated_Krypton_StarryDev_Edition.jar
+Decompiled with CFR 0.152
+
+
+Class_1
+----------------------------
+
+jw(Class_381 )
+  Unable to fully structure code
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_4
+----------------------------
+
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_5
+----------------------------
+
+sdw(Class_302 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+su(net.minecraft.class_2818 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+yh(net.minecraft.class_2680 int )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+cm(net.minecraft.class_2248 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+oib(Class_267 int )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+zn(Class_367 int )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+vpn(Class_381 )
+  Unable to fully structure code
+zps(Class_381 )
+  Unable to fully structure code
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_6
+----------------------------
+
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Unable to fully structure code
+
+
+Class_7
+----------------------------
+
+gd(Class_207 )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_8
+----------------------------
+
+<clinit>()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 34[UNCONDITIONALDOLOOP]
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Unable to fully structure code
+
+
+Class_9
+----------------------------
+
+ujo()
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+jw(Class_381 )
+  Handled impossible loop by adding 'first' condition
+nox()
+  Handled impossible loop by adding 'first' condition
+su(net.minecraft.class_2818 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+oso()
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+mgj()
+  Unable to fully structure code
+  Could not resolve type clashes
+ygh(net.minecraft.class_2818 )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous, and can't clone.
+ard()
+  Unable to fully structure code
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_10
+----------------------------
+
+gd(Class_207 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+gph(Class_112 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+hnq()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous, and can't clone.
+qc(java.lang.String int int int boolean )
+  Unable to fully structure code
+wn(java.lang.String int int int )
+  Unable to fully structure code
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Unable to fully structure code
+
+
+Class_11
+----------------------------
+
+jw(Class_381 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+wjk(Class_253 int int int int int )
+  Unable to fully structure code
+srb(Class_253 int int int int int )
+  Unable to fully structure code
+ws(Class_253 int int int int int )
+  Unable to fully structure code
+ed(Class_253 int int int )
+  Unable to fully structure code
+yv(net.minecraft.class_2818 )
+  Unable to fully structure code
+  Could not resolve type clashes
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous, and can't clone.
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+Class_13
+----------------------------
+
+jw(Class_381 )
+  Unable to fully structure code
+0(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Unable to fully structure code
+1(java.lang.invoke.MethodHandles$Lookup java.lang.String java.lang.invoke.MethodType java.lang.Object[] )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+
+
+NetworkHandler_15
+----------------------------
+
+<init>()
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+eb()
+  Unable to fully structure code
+eo(net.minecraft.class_1011 )
+  Recovered potentially malformed switches.  Disable with '--allowmalformedswitch false'
+  Unable to fully structure code
+bv(net

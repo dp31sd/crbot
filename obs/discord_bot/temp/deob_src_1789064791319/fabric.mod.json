@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "krloader",
+  "version": "1.0",
+  "name": "KrLoader",
+  "description": "Krypton loader",
+  "environment": "client",
+  "entrypoints": {
+    "preLaunch": [
+      "dev.krypton.diddy.DiddyEntrypoint"
+    ],
+    "main": [
+      "dev.krypton.diddy.DiddyEntrypoint"
+    ],
+    "client": [
+      "dev.krypton.diddy.DiddyEntrypoint"
+    ]
+  },
+  "mixins": [
+    "diddy.mixins.json",
+    "client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.11"
+  }
+}
+

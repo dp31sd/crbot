@@ -1,0 +1,37 @@
+Summary for C:\Users\Administrator\Desktop\obs\discord_bot\output\deobfuscated_waterclientcrackedfashion.jar
+Decompiled with CFR 0.152
+
+
+com.water.gui.ClickGuiScreen
+----------------------------
+
+method_25394(net.minecraft.class_332 int int float )
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+com.water.module.modules.client.ConfigShare
+----------------------------
+
+method_4(java.lang.String )
+  Loose catch block
+
+
+com.water.module.modules.donut.FakeRoles
+----------------------------
+
+isActive()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl17 : ICONST_0 - null : trying to set 0 previously set to 1
+
+
+com.water.spotify.SpotifyApi
+----------------------------
+
+method_0(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl16 : ALOAD_0 - null : trying to set 1 previously set to 0
+method_2()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl26 : ALOAD_0 - null : trying to set 2 previously set to 0
+method_12(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl17 : ALOAD_0 - null : trying to set 3 previously set to 0
+method_13(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Invalid stack depths @ lbl9 : ALOAD_0 - null : trying to set 3 previously set to 0
